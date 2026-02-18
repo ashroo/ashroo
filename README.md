@@ -63,29 +63,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ashroo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashroo&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
-
-</div>
-
-<div align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashroo&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
----
-
-### 🐍 Contribution Graph
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ashroo/ashroo/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ashroo/ashroo/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ashroo/ashroo/output/github-snake.svg" />
-</picture>
 
 </div>
 
